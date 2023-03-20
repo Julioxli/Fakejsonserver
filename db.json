@@ -1,0 +1,40 @@
+{
+    "livros" : [
+        {
+         "id": 1,
+        "nome": "Harry Potter e a pedra filosofal",
+        "capa": 0,
+        "autor": "Joanne Kathleen Rowling",
+        "prefacio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint provident a blanditiis esse. Velit debitis fugiat laudantium. Voluptas doloribus incidunt non ab repudiandae, omnis aliquam voluptatum dolore, iure, nihil deserunt.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint provident a blanditiis esse. Velit debitis fugiat laudantium. Voluptas doloribus incidunt non ab repudiandae, omnis aliquam voluptatum dolore, iure, nihil deserunt.",
+        "preco": "25,90",
+        "genero": "fantasia"
+        },
+        {
+         "id": 2,
+        "nome": "As crônicas de gelo e fogo",
+        "capa": 0,
+        "autor": "George R. R. Martin",
+        "prefacio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint provident a blanditiis esse. Velit debitis fugiat laudantium. Voluptas doloribus incidunt non ab repudiandae, omnis aliquam voluptatum dolore, iure, nihil deserunt.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint provident a blanditiis esse. Velit debitis fugiat laudantium. Voluptas doloribus incidunt non ab repudiandae, omnis aliquam voluptatum dolore, iure, nihil deserunt.",
+        "preco": "51,90",
+        "genero": "fantasia"
+        },
+        {
+         "id": 3,
+        "nome": 1984,
+        "capa": 0,
+        "autor": "George Orwell",
+        "prefacio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint provident a blanditiis esse. Velit debitis fugiat laudantium. Voluptas doloribus incidunt non ab repudiandae, omnis aliquam voluptatum dolore, iure, nihil deserunt.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint provident a blanditiis esse. Velit debitis fugiat laudantium. Voluptas doloribus incidunt non ab repudiandae, omnis aliquam voluptatum dolore, iure, nihil deserunt.",
+        "preco": "40,99",
+        "genero": "ficção"
+        },
+        {
+         "id": 4,
+        "nome": "Diario de um banana",
+        "capa": 0,
+        "autor": "Jeff Kinney",
+        "prefacio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint provident a blanditiis esse. Velit debitis fugiat laudantium. Voluptas doloribus incidunt non ab repudiandae, omnis aliquam voluptatum dolore, iure, nihil deserunt.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint provident a blanditiis esse. Velit debitis fugiat laudantium. Voluptas doloribus incidunt non ab repudiandae, omnis aliquam voluptatum dolore, iure, nihil deserunt.",
+        "preco": "32,99",
+        "genero": "Humor"
+        }
+    ]
+}
